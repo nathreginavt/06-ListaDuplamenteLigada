@@ -1,4 +1,7 @@
 # Lista Duplamente Ligada 
+
+Nathália Regina Vieira Teixeira - nathalia.teixeira@fatec.sp.gov.br
+
 ---
 
 ## Objetivos
